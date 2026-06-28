@@ -1,0 +1,6 @@
+{
+  "name": "Al-Magharif Sweets",
+  "description": "حلويات المغرف - A modern, elegant, and premium bilingual website for a luxury Arabic sweets, cakes, and traditional bakery shop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
